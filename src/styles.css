@@ -1,0 +1,24 @@
+html {
+  background: #111418;
+  font-size: 2vw;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #ddd;
+  padding: 2vw;
+  font-family: monospace;
+}
+
+.color-box {
+  display: inline-block;
+  height: 7vw;
+  width: 7vw;
+  border-radius: 0.5vw;
+}
